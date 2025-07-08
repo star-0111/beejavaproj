@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class assignment2 {
+public class stringanalysis {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
